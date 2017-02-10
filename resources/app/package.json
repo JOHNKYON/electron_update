@@ -1,0 +1,15 @@
+{
+  "name": "electron_test",
+  "version": "0.4.0",
+  "main": "main.js",
+  "description": "my_electron_test",
+  "devDependencies": {
+    "electron-packager": "^8.5.1",
+    "electron-winstaller": "^2.5.2",
+    "grunt": "^1.0.1",
+    "grunt-electron-installer": "^2.1.0"
+  },
+  "scripts": {
+    "package": "electron-packager ./ myelectron --win --out myelectron --arch=x64 --electron-version 1.4.15 --overwrite --ignore=node_modules"
+  }
+}

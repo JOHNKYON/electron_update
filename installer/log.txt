@@ -1,0 +1,4 @@
+Failed with exit code: 1
+Output:
+���ڳ��Դӡ�electron_test.nuspec�����ɳ�������
+δ���ҵ�·����E:\Learning\Internship\update\updateTest3\locales����һ���֡�

@@ -1,0 +1,9 @@
+{
+  "name": "mybuilder",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron-winstaller": "^2.5.2",
+    "grunt-electron-installer": "^2.1.0"
+  }
+}
